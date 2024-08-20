@@ -10,7 +10,7 @@ css = '''
     background-color: #475063
 }
 .chat-message .avatar {
-  width: 20%;
+  width: 21%;
 }
 .chat-message .avatar img {
   max-width: 78px;
