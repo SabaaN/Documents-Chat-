@@ -70,7 +70,7 @@ def main():
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = None 
 
-    st.header("CHAT WITH YOUR DOCUMENTS! :books:")
+    st.header("CHAT WITH YOUR PDFs! :books:")
     userQuestion = st.text_input ("Ask questions related to the document(s):")
     if userQuestion:
         handleUserInput(userQuestion)
