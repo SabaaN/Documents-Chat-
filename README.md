@@ -1,3 +1,3 @@
-# CHATBOT FOR PDFs and Docs
+# CHATBOT FOR PDFs and Doc
 
 
